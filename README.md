@@ -5,7 +5,8 @@
 <img width="1726" alt="image" src="https://github.com/AksanaMiadzelets/Tableau_project_hotel_bookings/assets/130594043/36294c74-1a4e-4454-a592-97198394551e">
 
 ## Dashboard
-<img width="1726" alt="image" src="https://github.com/AksanaMiadzelets/Tableau_project_hotel_bookings/assets/130594043/979bac0a-3946-4625-819c-fa4fed6d6664">
+<img width="1726" alt="image" src="https://github.com/AksanaMiadzelets/Tableau_project_hotel_bookings/assets/130594043/830a9197-aae6-4e96-8420-982b3613d03f">
+
 
 
 ## Данные 
