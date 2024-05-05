@@ -1,13 +1,19 @@
-# Tableau_project_hotel_bookings
- Готовый дашборд по ссылке: https://public.tableau.com/app/profile/oksana.miadzelets/viz/HotelBookings_17108903993140/HotelBookings
+# Проект по созданию дашборда для отдела привлечения клиентов сети отелей
+
+Работа выполнена с использованием Tableau.
+Готовый дашборд по ссылке: https://public.tableau.com/app/profile/oksana.miadzelets/viz/HotelBookings_17108903993140/HotelBookings
+
+---
 
 ## Dashboard canvas
 <img width="1726" alt="image" src="https://github.com/AksanaMiadzelets/Tableau_project_hotel_bookings/assets/130594043/36294c74-1a4e-4454-a592-97198394551e">
 
+---
+
 ## Dashboard
 <img width="1726" alt="image" src="https://github.com/AksanaMiadzelets/Tableau_project_hotel_bookings/assets/130594043/830a9197-aae6-4e96-8420-982b3613d03f">
 
-
+---
 
 ## Данные 
 https://disk.yandex.ru/d/mrW0VkCPtW-xiA
@@ -27,3 +33,7 @@ https://disk.yandex.ru/d/mrW0VkCPtW-xiA
 - reservation_status: статус бронирования (текстовое значение);
 - advanced_booking: количество дней между бронированием и датой заезда (числовое значение);
 - rate_type: тип тарифа (текстовое значение).
+
+---
+### Примечание
+Проект следует рассматривать как учебный.
