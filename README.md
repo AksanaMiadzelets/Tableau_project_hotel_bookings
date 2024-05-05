@@ -6,7 +6,8 @@
 ---
 
 ## Dashboard Сanvas
-<img width="1726" alt="image" src="https://github.com/AksanaMiadzelets/Tableau_project_hotel_bookings/assets/130594043/36294c74-1a4e-4454-a592-97198394551e">
+![Uploading image.png…]()
+
 
 ---
 
